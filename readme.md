@@ -7,4 +7,6 @@ I am also using replit for my code since it is easier to push my changes through
 # Reference Information and Links
 This section is made for all the different links to articles and forms and etc. I use for aid and examples on this project. It is another way to detail some documentation for this project.
 
-- installing the bs4 package in replit: https://ask.replit.com/t/how-to-add-beautifulsoup-to-python-in-replit/23705
+1. installing the bs4 package in replit: https://ask.replit.com/t/how-to-add-beautifulsoup-to-python-in-replit/23705
+2. issue with BeautifulSoup object returning None: https://stackoverflow.com/questions/65821009/python-beautiful-soup-html-parser-returns-none
+3. using Selenium with a tutorial on it since the page (and most pages today) uses Javascript: https://www.zenrows.com/blog/scraping-javascript-rendered-web-pages#requirements
